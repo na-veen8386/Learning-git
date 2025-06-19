@@ -1,1 +1,47 @@
-It is a Example file
+Git
+  Git is a distributed version control system (DVCS) that helps developers track changes in source code during software development. 
+It enables multiple developers to work on the same project efficiently.
+1.	Vcs & Git reps
+2.	Staging area & commits
+3.	Branches
+4.	Issues & PRs
+Key Concepts in Git
+
+Concept	Description
+
+Repository (repo)	A directory containing your project’s code and the .git folder
+Commit	A snapshot of your code changes at a specific time
+Branch	A separate line of development, often used for features or bug fixes
+Merge	Combines changes from different branches
+Clone	Downloads a repository from a remote source like GitHub
+Push/Pull	Push: Send changes to remote; Pull: Fetch updates from remote
+Common Git Commands
+Command	Description
+git init	Initialize a Git repo
+git clone <url>	Copy a repo from a remote source
+git add .	Stage all changes
+git commit -m "message"	Save changes with a message
+git push	Upload local commits to remote
+git pull	Fetch and merge remote changes
+git status	Show current state of working directory
+git log	Show commit history
+
+
+Top 10 Git hosting Solutions
+1.	GitHub
+2.	GitLab
+3.	Bitbucket    ( Most companies used )
+4.	SourceForge
+5.	AWS CodeCommit
+6.	Azure Repos
+7.	Google Cloud Source Repositories
+8.	Assembla
+9.	Gitea
+10.	Phorge (formerly Phabricator)
+
+
+4 Elements in Git
+1.	Local Repository
+2.	Remote Repositary
+3.	Staging Area
+4.	Working Directory
