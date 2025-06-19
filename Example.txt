@@ -45,3 +45,15 @@ Top 10 Git hosting Solutions
 2.	Remote Repositary
 3.	Staging Area
 4.	Working Directory
+
+
+…or create a new repository on the command line
+echo "# dlkld" >> README.md
+git init
+git add README.md
+git commit -m "first commit"                                             // Commit to local repo
+
+…or push an existing repository from the command line
+git remote add origin https://github.com/na-veen8386/dlkld.git
+git branch -M main                                                         //changing branch master to main
+git push -u origin main                                                    // push to github or remote repo
